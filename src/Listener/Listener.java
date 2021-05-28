@@ -28,7 +28,7 @@ public class Listener extends ListenerAdapter {
 						{
 								{"$help", "Zyo 의 명령어 도움말을 열람합니다."},
 								{"$ping", "Zyo 가 Pong! 하고 답장해줍니다."},
-								{"$learn", "Zyo 를 특정 단어에 답장하도록 학습시킵니다."}
+								{"$learn", "Zyo 를 특정 단어에 답장하도록 학습시킵니다."},
 								{"$forget", "Zyo 학습한 대화를 잊게합니다."}
 								
 						};
